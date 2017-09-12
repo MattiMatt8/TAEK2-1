@@ -35,7 +35,8 @@ Git spurningar og svör
 		Repository: Geymslan fyrir kláraðar skrár.
 
 8.	Hvenær er sniðugt að nota greinar (branches)? 
-
+		Þegar verið er að prófa öðruvísi útgáfur af master.
+		T.d. nýjar uppfærslur ofl.
 
 9.	Hver fann upp GIT?
 
