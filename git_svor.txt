@@ -1,1 +1,10 @@
 Git spurningar og svör
+
+1. Hvað gera eftirfarandi Linux skipanir?
+	cd		Breytir um skrá (change directory).
+	cd ~	Breytir current directory í heimaskrá notanda.
+	ls		Birtir innihald skráar sem notandi er staddur í.
+	pwd		Birtir slóð skráar sem notandi er staddur í. 
+	mkdir	Býr til nýja möppu.
+
+	
