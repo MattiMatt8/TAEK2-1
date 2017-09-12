@@ -20,7 +20,7 @@ Git spurningar og svör
 	c) git diff commit1 commit2		Sjá mun á skrám sem er búið að commita.
 
 4. 	Hvað er útgáfustýring (e.version control)? 
-
+		Forrit sem heldur utanum ferli/sögu forrits eða hverju sem er.
 
 5.	Hverjir eru helstu kostir við að nota GIT?
 
