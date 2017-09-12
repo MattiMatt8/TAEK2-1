@@ -44,4 +44,5 @@ Git spurningar og svör
 10.	Hvar er GIT helst notað?
 		Notað hjá fullt af tölvufyrirtækjum sem stuðla á að samvinna sé á verkefnum.
 		T.d. vefsíðugerðir ofl.
-		
+
+Pétur Steinn Guðmundsson
