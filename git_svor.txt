@@ -30,7 +30,9 @@ Git spurningar og svör
 		Þá er alltaf auðvelt að laga villur án þess að missa mikla vinnu.
 
 7.	Hvað er "Working directory"?" "Staging area"?" og "Repository" í GIT?
-
+		Working directory: skrár sem er búið að breyta en ekki added.
+		Staging area: Það sem er búið að adda en ekki búið að commita.
+		Repository: Geymslan fyrir kláraðar skrár.
 
 8.	Hvenær er sniðugt að nota greinar (branches)? 
 
