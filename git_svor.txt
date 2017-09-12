@@ -7,4 +7,28 @@ Git spurningar og svör
 	pwd		Birtir slóð skráar sem notandi er staddur í. 
 	mkdir	Býr til nýja möppu.
 
-	
+2. Hvað gera eftirfarandi git skipanir og hvers vegna eru þær gagnlegar?
+	git clone		Afritar git repository yfir í möppuna sem notandi er staddur í.
+	git log			Sýnir sögu af commits og allar uppl. um það.
+	git status		Birtir hvaða skrár eru breyttar.
+	git diff		Berð saman tvær skrár og sérð hvar munurinn er.
+	git checkout	Skiptir yfir í annað branch.
+
+3. Hver er munurinn á eftirfarandi git skipunum:
+	a) git diff 
+	b) git diff --staged 
+	c) git diff commit1 commit2
+
+4. 	Hvað er útgáfustýring (e.version control)? 
+
+5.	Hverjir eru helstu kostir við að nota GIT?
+
+6.	Hversu oft telur þú að eigi að gera commit í verkefni, rökstuddu?
+
+7.	Hvað er "Working directory"?" "Staging area"?" og "Repository" í GIT?
+
+8.	Hvenær er sniðugt að nota greinar (branches)? 
+
+9.	Hver fann upp GIT?
+
+10.	Hvar er GIT helst notað?
