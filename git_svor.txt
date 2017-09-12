@@ -26,7 +26,8 @@ Git spurningar og svör
 		Auðvelt að nota, frítt, viðurkennt og víða notað.
 
 6.	Hversu oft telur þú að eigi að gera commit í verkefni, rökstuddu?
-
+		Á 5min fresti er góð regla eða þegar eitthverju stóru er breytt.
+		Þá er alltaf auðvelt að laga villur án þess að missa mikla vinnu.
 
 7.	Hvað er "Working directory"?" "Staging area"?" og "Repository" í GIT?
 
