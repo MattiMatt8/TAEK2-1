@@ -15,20 +15,27 @@ Git spurningar og svör
 	git checkout	Skiptir yfir í annað branch.
 
 3. Hver er munurinn á eftirfarandi git skipunum:
-	a) git diff 
-	b) git diff --staged 
-	c) git diff commit1 commit2
+	a) git diff 					Sjá mun á skrám sem er ekki búið að adda.
+	b) git diff --staged 			Sjá mun á skrám sem eru í staging area.
+	c) git diff commit1 commit2		Sjá mun á skrám sem er búið að commita.
 
 4. 	Hvað er útgáfustýring (e.version control)? 
 
+
 5.	Hverjir eru helstu kostir við að nota GIT?
 
+
 6.	Hversu oft telur þú að eigi að gera commit í verkefni, rökstuddu?
+		
 
 7.	Hvað er "Working directory"?" "Staging area"?" og "Repository" í GIT?
 
+
 8.	Hvenær er sniðugt að nota greinar (branches)? 
+
 
 9.	Hver fann upp GIT?
 
+
 10.	Hvar er GIT helst notað?
+	
